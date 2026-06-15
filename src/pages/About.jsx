@@ -1,0 +1,1 @@
+export default function About(){return <div><h1>О нас</h1><p>Основано в 2023 году. Более 25 участников.</p></div>}
