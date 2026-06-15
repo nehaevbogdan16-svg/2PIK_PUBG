@@ -1,0 +1,1 @@
+export default ()=> <div className='hero'><h1>2PIK</h1><p>Официальная организация PUBG MOBILE</p></div>;

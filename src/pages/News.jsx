@@ -1,0 +1,1 @@
+export default ()=> <section><h2>Новости</h2><p>Добро пожаловать на обновлённый сайт 2PIK.</p></section>;

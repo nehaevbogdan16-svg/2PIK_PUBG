@@ -1,0 +1,1 @@
+export default ()=> <section><h2>Контакты</h2><p>Добавьте ссылку на Telegram.</p></section>;

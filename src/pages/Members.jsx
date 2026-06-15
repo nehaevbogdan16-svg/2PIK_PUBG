@@ -1,0 +1,1 @@
+export default ()=> <section><h2>Состав</h2><ul><li>Лидер</li><li>Офицеры</li><li>Участники</li></ul></section>;
